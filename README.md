@@ -24,8 +24,7 @@ A sleek, modern, and lightweight **Python IDE** built using **Tkinter + ttkboots
 
 ### 🔽 Download Project
 
-[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/your-username/arth-python-ide/archive/refs/heads/main.zip)
-
+[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)][(https://github.com/Arth-Joshi1001/PYTHON-IDLE/archive/refs/heads/main.zip)]
 ---
 
 ### ▶️ Run Locally
