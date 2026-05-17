@@ -24,7 +24,7 @@ A sleek, modern, and lightweight **Python IDE** built using **Tkinter + ttkboots
 
 ### 🔽 Download Project
 
-[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)][(https://github.com/Arth-Joshi1001/PYTHON-IDLE/archive/refs/heads/main.zip)]
+[![Download](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/Arth-Joshi1001/PYTHON-IDLE/archive/refs/heads/main.zip)
 ---
 
 ### ▶️ Run Locally
@@ -42,8 +42,16 @@ pip install ttkbootstrap
 # Run the IDE
 python main.py
 ```
+---
+
+### ⚡ Download Executable (.exe)
+
+[![Download EXE](https://img.shields.io/badge/Download-EXE-green?style=for-the-badge&logo=windows)](https://github.com/Arth-Joshi1001/PYTHON-IDLE/releases/latest)
+
 
 ---
+
+
 ## 🛠️ Tech Stack
 Python
 Tkinter – GUI framework
